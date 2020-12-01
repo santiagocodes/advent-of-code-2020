@@ -1,0 +1,20 @@
+{
+  "name": "2020",
+  "version": "1.0.0",
+  "description": "<h1 align='center'>Advent of Code 2020</h1>\r <h2 align='center'>\r Solutions to <a href='adventofcode.com/2020'>adventofcode.com</a>'s 2020 challenges.\r </h2>\r <br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagocodes/advent-of-code-2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiagocodes/advent-of-code-2020/issues"
+  },
+  "homepage": "https://github.com/santiagocodes/advent-of-code-2020#readme",
+  "dependencies": {}
+}
